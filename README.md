@@ -60,5 +60,5 @@ The dataset contains information about:
 
 ## Author
 
-Michal
+Michal Čulík
 Data Analytics Project – Engeto Data Academy
